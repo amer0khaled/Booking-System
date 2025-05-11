@@ -2,8 +2,6 @@
 
 The Booking System is a Java-based application designed to manage bookings and reservations. It provides a robust platform for handling various booking scenarios with security features and database persistence.
 
-The Booking System is a Java-based application designed to manage bookings and reservations. It provides a robust platform for handling various booking scenarios with security features and database persistence.
-
 -------------------------------
 
 **Technology Stack**
